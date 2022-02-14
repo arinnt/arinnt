@@ -1,4 +1,4 @@
-# Hi there 🙋‍♂️
+# Hi there 🙋🏾‍♂️
 
 I'm Arin, a passionate technical tinkerer from Eastern-USA.  
 
