@@ -10,6 +10,8 @@ I'm Arin, a passionate technical tinkerer from Eastern-USA.
   - 💌Passions: Problem-solving, Gardening, Music, Photography 
   - 📓Uses OneNote for everything
 
+
+
 ### I'm currently working on... 
   1) Automated Asset Trading via Python
   2) Creating Art via Python and Misc-inputs
