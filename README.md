@@ -6,7 +6,7 @@ I'm Arin, a passionate technical tinkerer from Eastern-USA.
   - Profession: 5+ years in Information Technology (infrustructure and support) 
   - Self employed (02/2021 - Current)
   - 👨‍🎓Bachelors of Arts, Computer Science
-  - 🤓Self taught Python, PHP
+  - 🤓Languages: Java, Python, C++, PHP
   - 💌Passions: Problem-solving, Gardening, Music, Photography 
   - 📓Uses OneNote for everything
 
